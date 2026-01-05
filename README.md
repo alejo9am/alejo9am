@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/banner.png" width="100%" alt="Banner Alejo Arenas" />
+  <img src="assets/banner.png" width="100%" alt="Banner Alejo Arenas" />
 
   <br />
 
@@ -72,11 +72,11 @@
 ### Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo9am&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejo9am&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas Generales" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo9am&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=alejo9am&v=1" alt="Lenguajes" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejo9am&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=alejo9am&v=1" alt="Lenguajes" />
 
   <br/>
   
