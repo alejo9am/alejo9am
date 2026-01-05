@@ -80,7 +80,7 @@
 
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=alejo9am&background=ffffff&title_color=A31420&text_color=1f2937&icon_color=A31420&ring=A31420&fire=A31420&currStreakLabel=A31420&hide_border=true&v=1" alt="Racha" />
+  <img src="https://streak-stats.demolab.com/?user=alejo9am&theme=default&ring=A31420&fire=A31420&currStreakLabel=A31420&hide_border=true&v=2" alt="Racha" />
 </div>
 
 <br />
