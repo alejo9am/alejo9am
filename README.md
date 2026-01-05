@@ -22,12 +22,12 @@
 
 <div align="center">
   <p>
-    He creado mi porfolio personal con mis proyectos más destacados, despliegues en vivo y más información sobre mí.<br>
-    <strong>Te invito a entrar a la web para conocer más sobre mis proyectos:</strong>
+    He creado mi porfolio personal con mis mejores proyectos, despliegues en vivo y documentación técnica.<br>
+    <strong>Te invito a explorar la experiencia completa aquí:</strong>
   </p>
   
   <a href="https://alejoarenas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/VISITAR_PORTFOLIO_ONLINE-A31420?style=for-the-badge&logoColor=white" alt="Ver Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_VISITAR_PORTFOLIO_ONLINE-A31420?style=for-the-badge&logoColor=white" alt="Ver Portfolio" />
   </a>
 </div>
 
@@ -72,15 +72,15 @@
 ### Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejo9am&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejo9am&show_icons=true&bg_color=ffffff&title_color=A31420&text_color=1f2937&icon_color=A31420&hide_border=true&v=1" alt="Estadísticas Generales" />
   
   <br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejo9am&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=alejo9am&v=1" alt="Lenguajes" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejo9am&layout=compact&bg_color=ffffff&title_color=A31420&text_color=1f2937&hide_border=true&langs_count=6&exclude_repo=alejo9am&v=1" alt="Lenguajes" />
 
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=alejo9am&theme=dark&hide_border=true&v=1" alt="Racha" />
+  <img src="https://streak-stats.demolab.com/?user=alejo9am&background=ffffff&title_color=A31420&text_color=1f2937&icon_color=A31420&ring=A31420&fire=A31420&currStreakLabel=A31420&hide_border=true&v=1" alt="Racha" />
 </div>
 
 <br />
