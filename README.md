@@ -1,5 +1,6 @@
 # 💫 Sobre mí:
-Soy un estudiante de Ingeniería Informática apasionado por el desarrollo web sencillo y atractivo.<br>Mis proyectos siempre dan soluciones potentes con diseños simples y sencillos de usar.
+Soy un estudiante de Ingeniería Informática apasionado por el desarrollo web sencillo y atractivo.<br>Mis proyectos siempre dan soluciones potentes con diseños simples y sencillos de usar.  
+Si quieres saber más sobre mí, te animo a que vistes mi [portfolio personal](https://alejoarenas.dev)
 
 
 ## 🌐 Contacto:
