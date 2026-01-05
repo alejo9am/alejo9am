@@ -1,11 +1,9 @@
 <div align="center">
-  <h1>ALEJO ARENAS</h1>
-  <h3>Estudiante de Ingeniería Informática & Desarrollador Web</h3>
+  <img src="/banner.png" width="100%" alt="Banner Alejo Arenas" />
+
+  <br />
 
   <p>
-    <a href="https://alejoarenas.dev" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-alejoarenas.dev-101010?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
-    </a>
     <a href="https://linkedin.com/in/alejoarenas" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -14,21 +12,30 @@
     </a>
   </p>
 </div>
-
-
 <br />
 
 ### Sobre mí
 
-Soy un estudiante de Ingeniería Informática apasionado por el desarrollo web sencillo y atractivo. Mis proyectos siempre buscan soluciones potentes con diseños simples y fáciles de usar.
+> Estudiante de Ingeniería Informática apasionado por el desarrollo web eficiente. Mis proyectos se centran en ofrecer soluciones potentes bajo diseños minimalistas y una experiencia de usuario intuitiva.
 
-Si quieres saber más sobre mí o ver mis trabajos en detalle, visita mi **[portfolio personal](https://alejoarenas.dev)**.
+<br />
+
+<div align="center">
+  <p>
+    He creado mi porfolio personal con mis proyectos más destacados, despliegues en vivo y más información sobre mí.<br>
+    <strong>Te invito a entrar a la web para conocer más sobre mis proyectos:</strong>
+  </p>
+  
+  <a href="https://alejoarenas.dev" target="_blank">
+    <img src="https://img.shields.io/badge/VISITAR_PORTFOLIO_ONLINE-A31420?style=for-the-badge&logoColor=white" alt="Ver Portfolio" />
+  </a>
+</div>
 
 <br />
 
 ### Stack Tecnológico
 
-**Lenguajes & Core**
+**Lenguajes de Programación**
 <br />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -37,7 +44,7 @@ Si quieres saber más sobre mí o ver mis trabajos en detalle, visita mi **[port
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-**Web & Full Stack**
+**Desarrollo Web & Backend**
 <br />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,16 +53,15 @@ Si quieres saber más sobre mí o ver mis trabajos en detalle, visita mi **[port
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
-**Infraestructura & Datos**
+**Infraestructura & Bases de Datos**
 <br />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 
-**Diseño**
+**Diseño & Creatividad**
 <br />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
@@ -66,15 +72,15 @@ Si quieres saber más sobre mí o ver mis trabajos en detalle, visita mi **[port
 ### Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo9am&show_icons=true&theme=transparent&title_color=A31420&text_color=e3e6ee&icon_color=A31420&bg_color=090b11&hide_border=true&include_all_commits=true&count_private=false" alt="Estadísticas de Alejo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejo9am&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas Generales" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo9am&layout=compact&theme=transparent&title_color=A31420&text_color=e3e6ee&bg_color=090b11&hide_border=true&langs_count=6&exclude_repo=alejo9am" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo9am&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=alejo9am&v=1" alt="Lenguajes" />
 
   <br/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alejo9am&theme=transparent&title_color=A31420&text_color=e3e6ee&icon_color=A31420&bg_color=090b11&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=alejo9am&theme=dark&hide_border=true&v=1" alt="Racha" />
 </div>
 
 <br />
