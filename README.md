@@ -80,7 +80,7 @@ Estudiante de Ingeniería Informática apasionado por el desarrollo web eficient
 
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejo9am&theme=default&ring=A31420&fire=A31420&currStreakLabel=A31420&hide_border=true&v=2" alt="Racha" />
+  <img src="https://streak-stats.demolab.com/?user=alejo9am&theme=default&ring=A31420&fire=A31420&currStreakLabel=A31420&hide_border=true&v=3" alt="Racha" />
 </div>
 
 <br />
