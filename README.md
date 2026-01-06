@@ -27,7 +27,7 @@ Soy un estudiante de Ingeniería Informática apasionado por el desarrollo web e
   </p>
   
   <a href="https://alejoarenas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VISITAR_PORTFOLIO_ONLINE-A31420?style=for-the-badge&logoColor=white" alt="Ver Portfolio" />
+    <img src="https://img.shields.io/badge/VISITAR_PORTFOLIO_ONLINE-A31420?style=for-the-badge&logoColor=white" alt="Ver Portfolio" />
   </a>
 </div>
 
