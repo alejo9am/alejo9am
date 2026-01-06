@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner Alejo Arenas" />
+  <img src="assets/banner-center.png" width="100%" alt="Banner Alejo Arenas" />
 
   <br />
 
@@ -16,7 +16,7 @@
 
 ### Sobre mí
 
-> Estudiante de Ingeniería Informática apasionado por el desarrollo web eficiente. Mis proyectos se centran en ofrecer soluciones potentes bajo diseños minimalistas y una experiencia de usuario intuitiva.
+Estudiante de Ingeniería Informática apasionado por el desarrollo web eficiente. Mis proyectos se centran en ofrecer soluciones potentes bajo diseños minimalistas y una experiencia de usuario intuitiva.
 
 <br />
 
