@@ -16,14 +16,14 @@
 
 ### Sobre mí
 
-Estudiante de Ingeniería Informática apasionado por el desarrollo web eficiente. Mis proyectos se centran en ofrecer soluciones potentes bajo diseños minimalistas y una experiencia de usuario intuitiva.
+Soy un estudiante de Ingeniería Informática apasionado por el desarrollo web eficiente. Mis proyectos dan soluciones potentes con diseños minimalistas y una experiencia de usuario intuitiva.
 
 <br />
 
 <div align="center">
   <p>
     He creado mi porfolio personal con mis mejores proyectos, despliegues en vivo y documentación técnica.<br>
-    <strong>Te invito a explorar la experiencia completa aquí:</strong>
+    <strong>Te invito a verlo en detalle aquí:</strong>
   </p>
   
   <a href="https://alejoarenas.dev" target="_blank">
